@@ -21,7 +21,8 @@ This project demonstrates a hybrid rendering pipeline where the **CPU prepares t
 
 
 ## 📷 Screenshots
-*(Add screenshots or GIFs here — ideally 2–3 from different camera angles)*
+![Description of image](screenshots/render1.png)
+
 
 
 ## 🛠 Technical Overview
