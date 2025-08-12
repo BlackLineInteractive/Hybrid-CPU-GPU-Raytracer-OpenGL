@@ -22,7 +22,7 @@ This project demonstrates a hybrid rendering pipeline where the **CPU prepares t
 
 ## 📷 Screenshots
 
-![Screenshot](IMG_3090.jpeg)
+![Screenshot](IMG_3040.jpeg)
 
 
 ## 🛠 Technical Overview
