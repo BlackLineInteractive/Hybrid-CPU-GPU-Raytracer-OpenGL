@@ -35,7 +35,11 @@ This project demonstrates a hybrid rendering pipeline where the **CPU prepares t
 
 Without denoiser (noisy output at low sample counts): ![Screenshot](IMG_3040.jpeg)
 
-With experimental denoiser (early prototype, not included in source). This shows excellent noise reduction even on minimum RT settings (e.g., low samples per pixel), resulting in smooth, photorealistic results in real-time. This is just version 1 of the denoiser — future iterations will improve artifact handling and performance further:
+With experimental denoiser (early prototype, not included in source). This shows excellent noise reduction even on minimum RT settings (e.g., low samples per pixel), resulting in smooth, photorealistic results in real-time. This is just version 1 of the denoiser — future iterations will improve artifact handling and performance further: ![Screenshot](IMG_3053.jpeg)
+
+![Screenshot](IMG_3054.jpeg)
+
+![Screenshot](IMG_3055.jpeg)
 
 ## 🛠 Technical Overview
 The **CPU side**:
